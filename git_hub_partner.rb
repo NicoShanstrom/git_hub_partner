@@ -1,1 +1,3 @@
-kjsldgkjsdlgjsdl
+
+class Partner
+end
